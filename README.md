@@ -173,6 +173,8 @@ Count of all queued items, including future ones. (Method is async and returns a
 
 Close queue and database connection. (Method is async and returns a Promise).
 
+Worker threads : https://www.section.io/engineering-education/nodejs-worker-thread/
+
 **Kind**: instance method of `Queue`.
 
 
